@@ -15,7 +15,7 @@ Group 12:
 1. Data Sourcing & Pre-processing
 2. Trigram Profile Generation
 3. Cosine Similarity
-4. Dendrogram
+4. Dendrogram 
 5. Evaluation
 
 ---
